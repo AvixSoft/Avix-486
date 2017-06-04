@@ -1,0 +1,14 @@
+5 clear
+10 param "SysLogic Program Example"
+11 param
+12 param "   1) End program
+13 param "
+14 param "   2) Say HELLO!
+15 param
+16 cmd a
+17 if a = 1 then stop
+18 if a = 2 then
+19 param
+20 param "    HELLO!"
+21 param
+22 stop if
