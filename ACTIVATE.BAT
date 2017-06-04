@@ -1,5 +1,4 @@
 @echo off
-cd sys32
 cls
 echo.
 echo  Welcome to Avix 486
