@@ -1,0 +1,6 @@
+This is a document for a text 
+window in the new FileView 
+Application for Avix 486. 
+
+You can right-click the text
+window to close it.
